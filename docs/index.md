@@ -13,9 +13,3 @@ hero:
 #      text: GitHub
 #      link: https://github.com/Chencyyy/NOTEBOOK
 ---
-
-目录
-- /sealdice/
-  - m522
-- /cod/
-  - cod_story

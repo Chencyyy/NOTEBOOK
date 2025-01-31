@@ -9,15 +9,25 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
+      { text: '鸣潮', link: '/wuthering/wuwa_echo'},
+      { text: 'COD 剧情解说', link: '/cod/cod_story'},
       { text: 'Sealdice',
         items: [
-          { text: '代挂事宜',
+          { text: '海豹手册', link: 'https://docs.sealdice.com/'},
+          { text: '分离部署',
             items: [
-              { text: 'm522', link: '/sealdice/m522'}
+              { text: '指导手册', link: 'https://lagrangedev.github.io/Lagrange.Doc/Lagrange.OneBot/Config/'},
+              { text: '使用文件', link: 'https://github.com/LagrangeDev/Lagrange.Core/releases'}
+          ]
+          },
+          { text: '其它',
+            items: [
+              { text: '代挂事宜', link: '/sealdice/m522'}
             ]
           }
         ]
       },
+      { text: 'QQ 相关链接', link: '/qq/qq_helpful_links'},
 
       // {
       //   text: 'Dropdown Menu',
