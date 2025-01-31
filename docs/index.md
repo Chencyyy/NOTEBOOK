@@ -17,9 +17,5 @@ hero:
 目录
 - /sealdice/
   - m522
-    - /log/
-      - index
-      - qq_log
-      - discord_log
 - /cod/
   - cod_story
