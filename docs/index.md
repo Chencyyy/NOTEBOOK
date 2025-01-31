@@ -22,3 +22,6 @@ hero:
   - m522
     - /log/
       - cat_log
+- /personal/
+  - /cod/
+    - cod_story
