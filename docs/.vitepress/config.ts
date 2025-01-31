@@ -8,7 +8,7 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Example', link: '/example' },
+      { text: 'm522', link: '/sealdice/m522' },
 
       // {
       //   text: 'Dropdown Menu',
@@ -26,7 +26,7 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'Example', link: '/example' },
+          { text: 'm522', link: '/sealdice/m522' },
           // ...
         ],
       },
