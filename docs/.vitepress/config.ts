@@ -11,14 +11,9 @@ export default defineConfig({
     nav: [
       { text: 'Sealdice',
         items: [
-          { text: '运行相关',
+          { text: '代挂事宜',
             items: [
-              { text: '代挂事宜', link: '/sealdice/m522'}
-            ]
-          },
-          { text: 'Log存储',
-            items: [
-              { text: '下前必看', link: '/sealdice/log/index'}
+              { text: 'm522', link: '/sealdice/m522'}
             ]
           }
         ]
