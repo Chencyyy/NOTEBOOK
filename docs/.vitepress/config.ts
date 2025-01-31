@@ -5,6 +5,7 @@ export default defineConfig({
   base: '/NOTEBOOK/',
   title: 'NOTEBOOK',
   description: '',
+//  ignoreDeadLinks: true,
 
   themeConfig: {
     nav: [
