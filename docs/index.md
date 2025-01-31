@@ -16,3 +16,9 @@ hero:
 #      text: GitHub
 #      link: https://github.com/Chencyyy/NOTEBOOK
 ---
+
+目录
+- /sealdice/
+  - m522
+    - /log/
+      - cat_log
