@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  name: NOTEBOOK
+  text: 
+  tagline: 私人所属，请勿使用
   actions:
     - theme: brand
       text: Get Started
