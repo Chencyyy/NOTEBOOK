@@ -12,8 +12,3 @@
 |[内锈](https://github.com/Chencyyy/NOTEBOOK/blob/main/docs/sealdice/log/save/%E5%86%85%E9%94%88(QQ-Group910262458).txt)|910262458|
 |[活神之手](https://github.com/Chencyyy/NOTEBOOK/blob/main/docs/sealdice/log/save/%E6%B4%BB%E7%A5%9E%E4%B9%8B%E6%89%8B(QQ-Group940119254).txt)|940119254|
 |[蔷薇狂犬小姐上班了](https://github.com/Chencyyy/NOTEBOOK/blob/main/docs/sealdice/log/save/%E8%94%B7%E8%96%87%E7%8B%82%E7%8A%AC%E5%B0%8F%E5%A7%90%E4%B8%8A%E7%8F%AD%E4%BA%86(QQ-Group957944407).txt)|957944407|
-
-# Discord
-|Log名|频道号|
-|:-:|:-:|
-|||

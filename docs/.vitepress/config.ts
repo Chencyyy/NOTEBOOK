@@ -9,7 +9,20 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'm522', link: '/sealdice/m522' },
+      { text: 'Sealdice',
+        items: [
+          { text: '运行相关',
+            items: [
+              { text: '代挂事宜', link: '/sealdice/m522'}
+            ]
+          },
+          { text: 'Log存储',
+            items: [
+              { text: '下前必看', link: '/sealdice/log/index'}
+            ]
+          }
+        ]
+      },
 
       // {
       //   text: 'Dropdown Menu',
@@ -27,7 +40,7 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'm522', link: '/sealdice/m522' },
+          { text: '懒得做了', link: '' },
           // ...
         ],
       },
