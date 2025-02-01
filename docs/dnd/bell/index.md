@@ -6,6 +6,9 @@ hero:
   text: Lv. 3
   tagline: 
   actions:
+    - theme: brand
+      text: Dice
+      link: /dnd/bell/dice
     - theme: alt
       text: Race
       link: /dnd/bell/race
