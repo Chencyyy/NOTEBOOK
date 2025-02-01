@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: Dice
       link: /dnd/bell/dice
+    - theme: brand
+      text: 日志
+      link: /dnd/bell/conclusion
     - theme: alt
       text: Race
       link: /dnd/bell/race

@@ -7,8 +7,8 @@ hero:
   tagline: 其余私人所属，请勿查看&使用
   actions:
     - theme: brand
-      text: 指令
-      link: /dnd/bell/dice
+      text: DND
+      link: /dnd/bell/index
 #    - theme: alt
 #      text: GitHub
 #      link: https://github.com/Chencyyy/NOTEBOOK
