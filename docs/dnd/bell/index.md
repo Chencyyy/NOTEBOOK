@@ -19,10 +19,9 @@ hero:
       text: Class
       link: /dnd/bell/class
     - theme: alt
-      text: Martial Archetype 
+      text: Sub-Class
       link: /dnd/bell/martial
     - theme: alt
       text: Other
       link: /dnd/bell/other
-
 ---

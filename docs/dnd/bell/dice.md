@@ -1,3 +1,19 @@
+---
+layout: home
+
+hero:
+  name: 
+  text: 
+  tagline: 
+  actions:
+    - theme: brand
+      text: Dice
+      link: /dnd/bell/dice
+    - theme: brand
+      text: 日志
+      link: /dnd/bell/conclusion
+---
+
 # 战斗
 ::: info 击中
 ```
