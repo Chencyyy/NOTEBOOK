@@ -27,8 +27,8 @@ export default defineConfig({
           { text: 'Bell',
             items: [
               { text: 'Index', link: '/dnd/bell/index'},
-              { text: 'Dice', link: '/dnd/bell/dice'},
               { text: 'Conclusion', link: '/dnd/bell/conclusion'},
+              { text: 'Dice', link: '/dnd/bell/dice'},
               { text: 'Race', link: '/dnd/bell/race'},
               { text: 'Class', link: '/dnd/bell/class'},
               { text: 'Sub-Class', link: '/dnd/bell/martical'},
@@ -67,8 +67,8 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Index', link: '/dnd/bell/index'},
-              { text: 'Dice', link: '/dnd/bell/dice'},
               { text: 'Conclusion', link: '/dnd/bell/conclusion'},
+              { text: 'Dice', link: '/dnd/bell/dice'},
               { text: 'Race', link: '/dnd/bell/race'},
               { text: 'Class', link: '/dnd/bell/class'},
               { text: 'Sub-Class', link: '/dnd/bell/martical'},
