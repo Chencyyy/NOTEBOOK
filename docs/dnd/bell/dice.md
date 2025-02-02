@@ -6,12 +6,12 @@ hero:
   text: 
   tagline: 
   actions:
-    - theme: brand
-      text: Dice
-      link: /dnd/bell/dice
-    - theme: brand
-      text: 日志
-      link: /dnd/bell/conclusion
+    - theme: alt
+      text: Saving Throw
+      link: /dnd/bell/sv_throw
+    - theme: alt
+      text: Skills
+      link: /dnd/bell/skill
 ---
 
 # 战斗
@@ -31,36 +31,6 @@ hero:
 ::: info D20
 ```
 .rd20
-```
-:::
-
-::: info D12
-```
-.rd12
-```
-:::
-
-::: info D10
-```
-.rd10
-```
-:::
-
-::: info D8
-```
-.rd8
-```
-:::
-
-::: info D6
-```
-.rd6
-```
-:::
-
-::: info D4
-```
-.rd4
 ```
 :::
 
