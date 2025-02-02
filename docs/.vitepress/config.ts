@@ -24,9 +24,15 @@ export default defineConfig({
       { text: 'DND',
         items: [
           { text: 'Wiki', link: '/dnd/wiki'},
-          { text: '角色',
+          { text: 'Bell',
             items: [
-              { text: 'Bell', link: '/dnd/bell/index'}
+              { text: 'Index', link: '/dnd/bell/index'},
+              { text: 'Dice', link: '/dnd/bell/dice'},
+              { text: 'Conclusion', link: '/dnd/bell/conclusion'},
+              { text: 'Race', link: '/dnd/bell/race'},
+              { text: 'Class', link: '/dnd/bell/class'},
+              { text: 'Sub-Class', link: '/dnd/bell/martical'},
+              { text: 'Other', link: '/dnd/bell/other'},
             ]
           }
         ]
@@ -57,10 +63,16 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Wiki', link: '/dnd/wiki'},
-          { text: '角色',
+          { text: 'Bell',
             collapsed: true,
             items: [
-              { text: 'Bell', link: '/dnd/bell/index'}
+              { text: 'Index', link: '/dnd/bell/index'},
+              { text: 'Dice', link: '/dnd/bell/dice'},
+              { text: 'Conclusion', link: '/dnd/bell/conclusion'},
+              { text: 'Race', link: '/dnd/bell/race'},
+              { text: 'Class', link: '/dnd/bell/class'},
+              { text: 'Sub-Class', link: '/dnd/bell/martical'},
+              { text: 'Other', link: '/dnd/bell/other'},
             ]
           }
         ]
